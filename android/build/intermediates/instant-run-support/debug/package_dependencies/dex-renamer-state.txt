@@ -1,0 +1,13 @@
+#Fri Jun 22 17:13:24 MDT 2018
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes2.dex
+base.3=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.8_a33dd2bedc8a22e9a44c5ad17c0d32641d4a1847
+base.2=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.8_a78fdfd79ea01af61ad33184a19700c84ae5c421
+base.1=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-freetype-1.9.8_6df99649614a2e4343a7d724247e09ca662cc8be
+base.0=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.8_04291c5261d43647ed2b741644d975b712543933
+file.3=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.8_a33dd2bedc8a22e9a44c5ad17c0d32641d4a1847\\classes.dex
+file.2=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.8_a78fdfd79ea01af61ad33184a19700c84ae5c421\\classes.dex
+file.1=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-freetype-1.9.8_6df99649614a2e4343a7d724247e09ca662cc8be\\classes.dex
+file.0=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.8_04291c5261d43647ed2b741644d975b712543933\\classes.dex
