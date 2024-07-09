@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "G:\\dev_\\libgdx\\projects\\memorygame\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\david\\.android\\build-cache\\151dbb52f4100259b9e6f05f8350e7226eeb0b67\\output\\res\\drawable-xhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\dev_\\libgdx\\projects\\memorygame\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

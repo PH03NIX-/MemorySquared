@@ -1,0 +1,4 @@
+#Fri Jun 22 17:13:26 MDT 2018
+base.0=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=D\:\\dev_\\libgdx\\projects\\memorygame\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

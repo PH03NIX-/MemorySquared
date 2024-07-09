@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\dev_\libgdx\projects\memorygame\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="599e6ca8a9d9a5f6a6d6d12e2223cf5220bbb516">
+        <dex dex="G:\dev_\libgdx\projects\memorygame\android\build\intermediates\pre-dexed\debug\core-1.0_d1af0976428c219b326da04ffeeed29d5e588a35.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="android/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="android/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="android/build/generated/source/r/androidTest/debug"/>
+	<classpathentry kind="src" path="android/build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="android/src"/>
+	<classpathentry kind="src" path="core/src"/>
+	<classpathentry kind="src" path="desktop/src"/>
+	<classpathentry kind="src" path="ios/src"/>
+	<classpathentry kind="lib" path="android/build/generated/mockable-android-27.v3.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/dexBuilder/debug/0.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/dexBuilder/debug/1.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/dexBuilder/debug/2.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/dexBuilder/debug/3.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/dexBuilder/debug/4.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/dexBuilder/debug/5.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/dexBuilder/debug/6.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/dexBuilder/debug/7.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/dexBuilder/debug/9.jar"/>
+	<classpathentry kind="lib" path="android/build/intermediates/transforms/mergeJavaRes/debug/0.jar"/>
+	<classpathentry kind="lib" path="core/build/libs/core-1.0.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="android/build/intermediates/classes/debug"/>
+</classpath>
